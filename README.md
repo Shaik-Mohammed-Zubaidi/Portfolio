@@ -63,7 +63,7 @@ Each project highlights a unique technical challenge and the engineering approac
 
 If you're interested in AI, multi-agent systems, or applied ML engineering, feel free to reach out.
 
-* **LinkedIn:** *(add link if you want)*
+* **LinkedIn:** *([LinkedIn](https://www.linkedin.com/in/shaik-zubaidi/))*
 * **GitHub:** [https://github.com/Shaik-Mohammed-Zubaidi](https://github.com/Shaik-Mohammed-Zubaidi)
 
 ---
