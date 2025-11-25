@@ -65,6 +65,7 @@ If you're interested in AI, multi-agent systems, or applied ML engineering, feel
 
 * **LinkedIn:** [https://www.linkedin.com/in/shaik-zubaidi/](https://www.linkedin.com/in/shaik-zubaidi/)
 * **GitHub:** [https://github.com/Shaik-Mohammed-Zubaidi](https://github.com/Shaik-Mohammed-Zubaidi)
+* **Cloud Devops Portfolio:** [https://eportfolio.mygreatlearning.com/shaik-mohammed-zubaidi](https://eportfolio.mygreatlearning.com/shaik-mohammed-zubaidi)
 
 ---
 
